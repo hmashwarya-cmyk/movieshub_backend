@@ -8,11 +8,11 @@
     "dev": "nodemon server.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
+    "cors": "^2.8.6",
     "crypto": "^1.0.1",
-    "dotenv": "^17.3.1",
-    "express": "^4.18.2",
-    "mongoose": "^8.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^4.22.2",
+    "mongoose": "^8.24.0",
     "multer": "^1.4.5-lts.1",
     "node-fetch": "^3.3.2",
     "pdfkit": "^0.17.2",
@@ -20,5 +20,17 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.0"
-  }
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmashwarya-cmyk/movieshub_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmashwarya-cmyk/movieshub_backend/issues"
+  },
+  "homepage": "https://github.com/hmashwarya-cmyk/movieshub_backend#readme"
 }
